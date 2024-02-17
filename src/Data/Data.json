@@ -1,0 +1,28 @@
+{
+	"recentChats": [
+	  {
+		"id": 1,
+		"avatar": "/avatar1.jpg",
+		"name": "Alice",
+		"lastMessageTime": "10:30 AM",
+		"lastMessage": "Hello",
+		"about": "Away"
+	  },
+	  {
+		"id": 2,
+		"avatar": "/avatar2.jpg",
+		"name": "Bob",
+		"lastMessageTime": "11:45 AM",
+		"lastMessage": "How are you? ",
+		"about": "Available"
+	  },
+	  {
+		"id": 3,
+		"avatar": "/avatar3.jpg",
+		"name": "Charlie",
+		"lastMessageTime": "Yesterday",
+		"lastMessage": "See you later ",
+		"about": "Available"
+	  }
+	]
+  }
